@@ -1,0 +1,4 @@
+User,Email,Attempted_Phishing,Blocked
+Alice,alice@example.com,Yes,Yes
+Bob,bob@example.com,No,Yes
+Charlie,charlie@example.com,Yes,No
